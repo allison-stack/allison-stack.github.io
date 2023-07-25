@@ -108,7 +108,11 @@ i:hover{
     padding: 19px;
 }
 
-
+.text{
+    font-size: 20px;
+    margin: 5px 500px 15px 0px;
+    line-height: 44px;
+}
 
 .content p{
     margin-top: 30px;
